@@ -19,3 +19,11 @@ CREAR CABECERAS
 #### CABECERA H4 
 ##### CABECERA H5 
 ###### CABECERA H6
+
+formato texto *italica*
+
+formato texto **strong o negrita**
+
+formato texto ~tachado~
+
+

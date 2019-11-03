@@ -20,6 +20,7 @@ CREAR CABECERAS
 ##### CABECERA H5 
 ###### CABECERA H6
 
+
 formato texto *italica*
 
 formato texto **strong o negrita**
@@ -32,3 +33,6 @@ formato texto ~tachado~
 
 - elemento lista desordenada
 - elemento lista desordenada
+
+
+[Texto link](https://www.google.com.mx)

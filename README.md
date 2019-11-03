@@ -27,3 +27,8 @@ formato texto **strong o negrita**
 formato texto ~tachado~
 
 
+1. elemento lista ordenada
+2. elemento lista ordenada
+
+- elemento lista desordenada
+- elemento lista desordenada

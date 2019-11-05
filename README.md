@@ -11,7 +11,7 @@ Quién mantiene y contribuye con el proyecto.
 
 Para darle formato se utiliza MARKDOWN que es una lenguaje de marcado similar al usado en HTML
 
-CREAR CABECERAS 
+# Cabeceras
 
 # CABECERA H1 
 ## CABECERA H2 
@@ -20,19 +20,23 @@ CREAR CABECERAS
 ##### CABECERA H5 
 ###### CABECERA H6
 
-
+# Formatos Texto
 formato texto *italica*
 
 formato texto **strong o negrita**
 
 formato texto ~tachado~
 
-
+# Listas
 1. elemento lista ordenada
 2. elemento lista ordenada
 
 - elemento lista desordenada
 - elemento lista desordenada
 
-
+# Links 
 [Texto link](https://www.google.com.mx)
+
+# Imagenes
+![Ejemplo Imagen](./git.png)
+

@@ -53,3 +53,7 @@ function funcionejemplo(){
 | - | - | -
 |Susana|Cardenas|25
 |Pedro|Gomez|125
+
+# Citas
+> Esto es una cita
+

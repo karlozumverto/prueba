@@ -48,3 +48,8 @@ function funcionejemplo(){
 <title>Titulo</title>
 ```
 
+# Tablas
+|Nombre|Apellido|Edad 
+| - | - | -
+|Susana|Cardenas|25
+|Pedro|Gomez|125

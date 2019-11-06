@@ -57,3 +57,9 @@ function funcionejemplo(){
 # Citas
 > Esto es una cita
 
+# Lineas Divisorias
+Texto
+
+---
+
+

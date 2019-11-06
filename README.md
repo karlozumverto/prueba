@@ -1,3 +1,4 @@
+# Archivo README
 El archivo README se utiliza para indicar 
 - Qué hace el proyecto. 
 - Por qué el proyecto es útil. 
@@ -5,6 +6,7 @@ El archivo README se utiliza para indicar
 - Dónde pueden recibir ayuda los usuarios con tu proyecto 
 - Quién mantiene y contribuye con el proyecto.
 
+# Uso Markdown
 Para darle formato se utiliza MARKDOWN que es una lenguaje de marcado similar al usado en HTML
 
 # Cabeceras
